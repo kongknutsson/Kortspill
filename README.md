@@ -1,1 +1,1 @@
-Kortspill
+Kortspill i Python mot AI.
